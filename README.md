@@ -4,7 +4,17 @@ A comprehensive, curated roadmap of the literature defining modern system design
 
 > "Architecture is the decisions that are hard to change later." — **Jeff Vogel**
 
----
+
+
+## 💡 Inclusion Criteria
+
+**To ensure this list remains a high-standard resource for architects, each selection is governed by the following principles:**
+
+- **Architectural Core:** The work must focus on structural decisions, system design, and the "hard-to-change" aspects of software, rather than mere implementation details.
+- **Conceptual Longevity:** We prioritize content that transcends the hype cycle. The principles discussed must be applicable long after specific framework versions have evolved.
+- **Technology Agnostic:** Priority is given to books that teach mental models and patterns applicable across diverse tech stacks, avoiding vendor lock-in in thought.
+- **Peer Validation & Depth:** Beyond mere ratings, we look for works recognized by the global engineering community for their depth, clarity, and ability to challenge the status quo.
+- **Substantial Insight:** Each entry must provide a comprehensive exploration of its subject matter, ensuring the reader gains a complete professional perspective.--
 
 ## 📑 Curriculum Overview
 
@@ -36,24 +46,25 @@ This index follows a **Concept-First** approach. Inclusion is based on:
 
 |Image | Publ.| ISBN          | Type | Title                                                           | Rating                                            | Raters | Authors |
 |:---- | :--- | :------------ | :--- | :-------------------------------------------------------------- | :-------------------------------------------------- | :---   | :--- |
-|<img src="./imgs/01_Architectural/0785342154955.png" width="50px"> | 2021 | 0785342154955 | Book | Software Architecture in Practice, 4th Edition                  | [3.82](https://www.goodreads.com/book/show/70143) | 608    | Len Bass, Paul Clements, Rick Kazman |
-|<img src="./imgs/01_Architectural/9781492043454.png" width="50px"> | 2020 | 9781492043454 | Book | Fundamentals of Software Architecture: An Engineering Approach  | [4.40](https://www.goodreads.com/book/show/44144493) | 364 | Mark Richards, Neal Ford |
-|<img src="./imgs/01_Architectural/9781492077541.png" width="50px"> | 2020 | 9781492077541 | Book | The Software Architect Elevator                                 | [4.48](https://www.goodreads.com/book/show/49828197) | 101 | Gregor Hohpe |
-|<img src="./imgs/01_Architectural/9780136524038.png" width="50px"> | 2019 | 9780136524038 | Book | Righting Software                                               | [3.79](https://www.goodreads.com/book/show/51109185) | 76 | Juval Löwy |
-|<img src="./imgs/01_Architectural/9780134494166.png" width="50px"> | 2017 | 9780134494166 | Book | Clean Architecture                                              | [4.23](https://www.goodreads.com/book/show/18043011) | 3662 | Robert C. Martin |
-|<img src="./imgs/01_Architectural/9781491986363.png" width="50px"> | 2017 | 9781491986363 | Book | Building Evolutionary Architectures                             | [3.74](https://www.goodreads.com/book/show/35755822) | 705 | Neal Ford, Rebecca Parsons, Patrick |
-|<img src="./imgs/01_Architectural/9781680502091.png" width="50px"> | 2017 | 9781680502091 | Book | Design It!: From Programmer to Software Architect               | [3.68](https://www.goodreads.com/book/show/31670678) | 168 | Michael Keeling |
-|<img src="./imgs/01_Architectural/9781491943397.png" width="50px"> | 2016 | 9781491943397 | Book | Architecting for Scale                                          | [3.56](https://www.goodreads.com/book/show/27560189) | 164 | Lee Atchison |
-|<img src="./imgs/01_Architectural/9798652551568.png" width="50px"> | 2016 | 9798652551568 | Book | Software Architecture for Developers: Volume 1                  | [3.87](https://www.goodreads.com/book/show/33221518) | 332 | Simon Brown |
-|<img src="./imgs/01_Architectural/9798652551568.png" width="50px"> | 2016 | 9798652551568 | Book | Software Architecture for Developers: Volume 2                  | [3.78](https://www.goodreads.com/book/show/33221619) | 108 | Simon Brown |
-|<img src="./imgs/01_Architectural/9780321717290.png" width="50px"> | 2011 | 9780321717290 | Book | 12 Essential Skills for Software Architects                     | [3.70](https://www.goodreads.com/book/show/13039744) | 118 | Dave Hendricksen |
-|<img src="./imgs/01_Architectural/9780201703726.png" width="50px"> | 2010 | 9780201703726 | Book | Documenting Software Architectures: Views and Beyond            | [3.71](https://www.goodreads.com/book/show/223911) | 174 | Paul Clements, et al. |
-|<img src="./imgs/01_Architectural/9780470167748.png" width="50px"> | 2008 | 9780470167748 | Book | Software Architecture: Foundations, Theory, and Practice        | [3.81](https://www.goodreads.com/book/show/6329721) | 65 | Richard N. Taylor, et al. |
-|<img src="./imgs/01_Architectural/9780132344821.png" width="50px"> | 2007 | 9780132344821 | Book | SOA: Principles of Service Design                               | [3.72](https://www.goodreads.com/book/show/1265221) | 130 | Thomas Erl |
-|<img src="./imgs/01_Architectural/9780321112293.png" width="50px"> | 2005 | 9780321112293 | Book | Software Systems Architecture: Views and Perspectives           | [4.12](https://www.goodreads.com/book/show/223932) | 205 | Nick Rozanski, Eóin Woods |
-|<img src="./imgs/01_Architectural/9780131858589.png" width="50px"> | 2005 | 9780131858589 | Book | Service-Oriented Architecture: Concepts and Technology          | [3.65](https://www.goodreads.com/book/show/70147) | 170 | Thomas Erl |
-|<img src="./imgs/01_Architectural/9780321127426.png" width="50px"> | 2002 | 9780321127426 | Book | Patterns of Enterprise Application Architecture                 | [4.11](https://www.goodreads.com/book/show/70156) | 3893 | Martin Fowler |
-|<img src="./imgs/01_Architectural/9780201895421.png" width="50px"> | 1996 | 9780201895421 | Book | Analysis Patterns: Reusable Object Models                       | [3.84](https://www.goodreads.com/book/show/85002) | 275 | Martin Fowler |
+|<img src="./imgs/01_Architectural/9780138249328.png" width="50px"> | 2024 | 9780138249328 | Book | Effective Software Architecture: Building Better Software Faster                  | [4.14](https://www.goodreads.com/book/show/203021290) | 00006    | Oliver Goldman |
+|<img src="./imgs/01_Architectural/0785342154955.png" width="50px"> | 2021 | 0785342154955 | Book | Software Architecture in Practice, 4th Edition                  | [3.82](https://www.goodreads.com/book/show/70143) | 00608    | Len Bass, Paul Clements, Rick Kazman |
+|<img src="./imgs/01_Architectural/9781492043454.png" width="50px"> | 2020 | 9781492043454 | Book | Fundamentals of Software Architecture: An Engineering Approach  | [4.40](https://www.goodreads.com/book/show/44144493) | 00364 | Mark Richards, Neal Ford |
+|<img src="./imgs/01_Architectural/9781492077541.png" width="50px"> | 2020 | 9781492077541 | Book | The Software Architect Elevator                                 | [4.48](https://www.goodreads.com/book/show/49828197) | 00101 | Gregor Hohpe |
+|<img src="./imgs/01_Architectural/9780136524038.png" width="50px"> | 2019 | 9780136524038 | Book | Righting Software                                               | [3.79](https://www.goodreads.com/book/show/51109185) | 00076 | Juval Löwy |
+|<img src="./imgs/01_Architectural/9780134494166.png" width="50px"> | 2017 | 9780134494166 | Book | Clean Architecture                                              | [4.23](https://www.goodreads.com/book/show/18043011) | 03662 | Robert C. Martin |
+|<img src="./imgs/01_Architectural/9781491986363.png" width="50px"> | 2017 | 9781491986363 | Book | Building Evolutionary Architectures                             | [3.74](https://www.goodreads.com/book/show/35755822) | 00705 | Neal Ford, Rebecca Parsons, Patrick |
+|<img src="./imgs/01_Architectural/9781680502091.png" width="50px"> | 2017 | 9781680502091 | Book | Design It!: From Programmer to Software Architect               | [3.68](https://www.goodreads.com/book/show/31670678) | 00168 | Michael Keeling |
+|<img src="./imgs/01_Architectural/9781491943397.png" width="50px"> | 2016 | 9781491943397 | Book | Architecting for Scale                                          | [3.56](https://www.goodreads.com/book/show/27560189) | 00164 | Lee Atchison |
+|<img src="./imgs/01_Architectural/9798652551568.png" width="50px"> | 2016 | 9798652551568 | Book | Software Architecture for Developers: Volume 1                  | [3.87](https://www.goodreads.com/book/show/33221518) | 00332 | Simon Brown |
+|<img src="./imgs/01_Architectural/9798652551568.png" width="50px"> | 2016 | 9798652551568 | Book | Software Architecture for Developers: Volume 2                  | [3.78](https://www.goodreads.com/book/show/33221619) | 00108 | Simon Brown |
+|<img src="./imgs/01_Architectural/9780321717290.png" width="50px"> | 2011 | 9780321717290 | Book | 12 Essential Skills for Software Architects                     | [3.70](https://www.goodreads.com/book/show/13039744) | 00118 | Dave Hendricksen |
+|<img src="./imgs/01_Architectural/9780201703726.png" width="50px"> | 2010 | 9780201703726 | Book | Documenting Software Architectures: Views and Beyond            | [3.71](https://www.goodreads.com/book/show/223911) | 00174 | Paul Clements, et al. |
+|<img src="./imgs/01_Architectural/9780470167748.png" width="50px"> | 2008 | 9780470167748 | Book | Software Architecture: Foundations, Theory, and Practice        | [3.81](https://www.goodreads.com/book/show/6329721) | 00065 | Richard N. Taylor, et al. |
+|<img src="./imgs/01_Architectural/9780132344821.png" width="50px"> | 2007 | 9780132344821 | Book | SOA: Principles of Service Design                               | [3.72](https://www.goodreads.com/book/show/1265221) | 00130 | Thomas Erl |
+|<img src="./imgs/01_Architectural/9780321112293.png" width="50px"> | 2005 | 9780321112293 | Book | Software Systems Architecture: Views and Perspectives           | [4.12](https://www.goodreads.com/book/show/223932) | 00205 | Nick Rozanski, Eóin Woods |
+|<img src="./imgs/01_Architectural/9780131858589.png" width="50px"> | 2005 | 9780131858589 | Book | Service-Oriented Architecture: Concepts and Technology          | [3.65](https://www.goodreads.com/book/show/70147) | 00170 | Thomas Erl |
+|<img src="./imgs/01_Architectural/9780321127426.png" width="50px"> | 2002 | 9780321127426 | Book | Patterns of Enterprise Application Architecture                 | [4.11](https://www.goodreads.com/book/show/70156) | 03893 | Martin Fowler |
+|<img src="./imgs/01_Architectural/9780201895421.png" width="50px"> | 1996 | 9780201895421 | Book | Analysis Patterns: Reusable Object Models                       | [3.84](https://www.goodreads.com/book/show/85002) | 00275 | Martin Fowler |
 
 ---
 
@@ -74,9 +85,9 @@ This index follows a **Concept-First** approach. Inclusion is based on:
 
 |Image | Publ.| ISBN          | Type | Title                                      | Rating                                               | Raters | Authors |
 | :--- | :--- | :------------ | :--- | :----------------------------------------- | :--------------------------------------------------- | :--- | :--- |
-|<img src="./imgs/03_Domain/9780134434421.png" width="50px"> | 2016 | 9780134434421 | Book | Domain-Driven Design Distilled             | [3.78](https://www.goodreads.com/book/show/28602719) | 1331 | Vaughn Vernon |
-|<img src="./imgs/03_Domain/9780321834577.png" width="50px"> | 2013 | 9780321834577 | Book | Implementing Domain-Driven Design          | [4.06](https://www.goodreads.com/book/show/15756865) | 1302 | Vaughn Vernon |
-|<img src="./imgs/03_Domain/9780321125217.png" width="50px"> | 2003 | 9780321125217 | Book | Domain-Driven Design: Tackling Complexity  | [4.16](https://www.goodreads.com/book/show/179133)   | 5849 | Eric Evans |
+|<img src="./imgs/03_Domain/9780134434421.png" width="50px"> | 2016 | 9780134434421 | Book | Domain-Driven Design Distilled             | [3.78](https://www.goodreads.com/book/show/28602719) | 01331 | Vaughn Vernon |
+|<img src="./imgs/03_Domain/9780321834577.png" width="50px"> | 2013 | 9780321834577 | Book | Implementing Domain-Driven Design          | [4.06](https://www.goodreads.com/book/show/15756865) | 01302 | Vaughn Vernon |
+|<img src="./imgs/03_Domain/9780321125217.png" width="50px"> | 2003 | 9780321125217 | Book | Domain-Driven Design: Tackling Complexity  | [4.16](https://www.goodreads.com/book/show/179133)   | 05849 | Eric Evans |
 
 ---
 
@@ -85,10 +96,10 @@ This index follows a **Concept-First** approach. Inclusion is based on:
 
 |Image | Publ. | ISBN          | Type  | Title                                | Rating                                               | Raters | Authors |
 | :--- | :---  | :------------ | :-----| :----------------------------------- | :----------------------------------------------------| :----  | :------ |
-|<img src="./imgs/04_Microservices/9781492034025.png" width="50px"> | 2021  | 9781492034025 | Books | Building Microservices (2nd Ed)      | [4.49](https://www.goodreads.com/book/show/22512931) | 1240   | Sam Newman |
-|<img src="./imgs/04_Microservices/9781492047841.png" width="50px"> | 2019  | 9781492047841 | Books | Monolith to Microservices            | [4.33](https://www.goodreads.com/book/show/44144499) | 1452   | Sam Newman |
-|<img src="./imgs/04_Microservices/9781617294549.png" width="50px"> | 2018  | 9781617294549 | Books | Microservice Patterns                | [4.19](https://www.goodreads.com/book/show/34372564) | 1185   | Chris Richardson |
-|<img src="./imgs/04_Microservices/9780321200686.png" width="50px"> | 2003  | 9780321200686 | Books | Enterprise Integration Patterns      | [4.12](https://www.goodreads.com/book/show/85039)    | 2752   | Hohpe, Woolf |
+|<img src="./imgs/04_Microservices/9781492034025.png" width="50px"> | 2021  | 9781492034025 | Books | Building Microservices (2nd Ed)      | [4.49](https://www.goodreads.com/book/show/22512931) | 01240   | Sam Newman |
+|<img src="./imgs/04_Microservices/9781492047841.png" width="50px"> | 2019  | 9781492047841 | Books | Monolith to Microservices            | [4.33](https://www.goodreads.com/book/show/44144499) | 01452   | Sam Newman |
+|<img src="./imgs/04_Microservices/9781617294549.png" width="50px"> | 2018  | 9781617294549 | Books | Microservice Patterns                | [4.19](https://www.goodreads.com/book/show/34372564) | 01185   | Chris Richardson |
+|<img src="./imgs/04_Microservices/9780321200686.png" width="50px"> | 2003  | 9780321200686 | Books | Enterprise Integration Patterns      | [4.12](https://www.goodreads.com/book/show/85039)    | 02752   | Hohpe, Woolf |
 
 
 
@@ -97,10 +108,10 @@ This index follows a **Concept-First** approach. Inclusion is based on:
 
 |Image | Publ.| ISBN          | Type | Title                               | Rating                                               | Raters | Authors                                  |
 | :---| :--- | :------------ | :--- | :---------------------------------- | :--------------------------------------------------- | :----- | :--------------------------------------- |
-|<img src="./imgs/05_Streaming/9781491983874.png" width="50px"> | 2018 | 9781491983874 | Book | Streaming Systems                   | [3.92](https://www.goodreads.com/book/show/34431414) | 106    | Tyler Akidau, Slava Chernyak, Reuven Lax |
-|<img src="./imgs/05_Streaming/9781492038221.png" width="50px">| 2018 | 9781492038221 | Book | Designing Event-Driven Systems      | [3.80](https://www.goodreads.com/book/show/39793332) | 190    | Ben Stopford                             |
-|<img src="./imgs/05_Streaming/9781491940105.png" width="50px">| 2016 | 9781491940105 | Book | Making Sense of Stream Processing   | [4.31](https://www.goodreads.com/book/show/29598815) | 143    | Martin Kleppmann                         |
-|<img src="./imgs/05_Streaming/0785342200683.png" width="50px">| 2003 | 0785342200683 | Book | Enterprise Integration Patterns     | [4.10](https://www.goodreads.com/book/show/85012)    | 1388   | Gregor Hohpe, Bobby Woolf                |
+|<img src="./imgs/05_Streaming/9781491983874.png" width="50px"> | 2018 | 9781491983874 | Book | Streaming Systems                   | [3.92](https://www.goodreads.com/book/show/34431414) | 00106    | Tyler Akidau, Slava Chernyak, Reuven Lax |
+|<img src="./imgs/05_Streaming/9781492038221.png" width="50px">| 2018 | 9781492038221 | Book | Designing Event-Driven Systems      | [3.80](https://www.goodreads.com/book/show/39793332) | 00190    | Ben Stopford                             |
+|<img src="./imgs/05_Streaming/9781491940105.png" width="50px">| 2016 | 9781491940105 | Book | Making Sense of Stream Processing   | [4.31](https://www.goodreads.com/book/show/29598815) | 00143    | Martin Kleppmann                         |
+|<img src="./imgs/05_Streaming/0785342200683.png" width="50px">| 2003 | 0785342200683 | Book | Enterprise Integration Patterns     | [4.10](https://www.goodreads.com/book/show/85012)    | 01388   | Gregor Hohpe, Bobby Woolf                |
 
 
 ---
@@ -110,9 +121,9 @@ This index follows a **Concept-First** approach. Inclusion is based on:
 
 |Image | Publ.| ISBN          | Type | Title                                   | Rating                                               | Raters | Authors |
 | :---| :--- | :------------ | :--- | :-------------------------------------- | :--------------------------------------------------- | :--- | :--- |
-|<img src="./imgs/06_DataEngineering/9781492040347.png" width="50px">| 2019 | 9781492040347 | Book | Database Internals: A Deep Dive         | [4.26](https://www.goodreads.com/book/show/44647144) | 0178 | Alex Petrov |
-|<img src="./imgs/06_DataEngineering/9781449373320.png" width="50px">| 2017 | 9781449373320 | Book | Designing Data-Intensive Applications   | [4.72](https://www.goodreads.com/book/show/23463279) | 4385 | Martin Kleppmann |
-|<img src="./imgs/06_DataEngineering/9781617290343.png" width="50px">| 2015 | 9781617290343 | Book | Big Data: Principles and Best Practices | [3.82](https://www.goodreads.com/book/show/13421400) | 0440 | Nathan Marz |
+|<img src="./imgs/06_DataEngineering/9781492040347.png" width="50px">| 2019 | 9781492040347 | Book | Database Internals: A Deep Dive         | [4.26](https://www.goodreads.com/book/show/44647144) | 00178 | Alex Petrov |
+|<img src="./imgs/06_DataEngineering/9781449373320.png" width="50px">| 2017 | 9781449373320 | Book | Designing Data-Intensive Applications   | [4.72](https://www.goodreads.com/book/show/23463279) | 04385 | Martin Kleppmann |
+|<img src="./imgs/06_DataEngineering/9781617290343.png" width="50px">| 2015 | 9781617290343 | Book | Big Data: Principles and Best Practices | [3.82](https://www.goodreads.com/book/show/13421400) | 00440 | Nathan Marz |
 
 ---
 
@@ -122,10 +133,14 @@ This index follows a **Concept-First** approach. Inclusion is based on:
 
 |Image | Publ.| ISBN          | Type | Title                           | Rating                                               | Raters | Authors |
 | :--- | :--- | :------------ | :--- | :------------------------------ | :--------------------------------------------------- | :---   | :--- |
-|<img src="./imgs/07_CloudNative/9781492050285.png" width="50px">| 2019 | 9781492050285 | Book | Kubernetes Patterns             | [4.27](https://www.goodreads.com/book/show/44144501) | 0101   | Bilgin Ibryam, Roland Huß |
-|<img src="./imgs/07_CloudNative/9781491929124.png" width="50px">| 2016 | 9781491929124 | Book | Site Reliability Engineering    | [4.23](https://www.goodreads.com/book/show/27968891) | 1980   | Beyer, Jones, Petoff, Murphy |
-|<img src="./imgs/07_CloudNative/9781491924358.png" width="50px">| 2016 | 9781491924358 | Book | Infrastructure as Code          | [4.20](https://www.goodreads.com/book/show/26544394) | 0316   | Kief Morris |
-|<img src="./imgs/07_CloudNative/9780978739218.png" width="50px">| 2007 | 9780978739218 | Book | Release It!: Design and Deploy  | [4.26](https://www.goodreads.com/book/show/1069827)  | 2746   | Michael Nygard |
+|<img src="./imgs/07_CloudNative/9781835889299.png" width="50px">| 2024 | 9781835889299 | Book | AWS Cloud Projects: Strengthen your AWS    | [4.00](https://www.goodreads.com/book/show/218824981) | 0001   | Ivo Pinto , Pedro Santos |
+|<img src="./imgs/07_CloudNative/9781835084366.png" width="50px">| 2024 | 9781835084366 | Book | Solutions Architect's Handbook: Kick-start your career with architecture design principles    | [4.44](https://www.goodreads.com/book/show/207925842) | 0009   | Saurabh Shrivastava , Neelanjali Srivastav |
+|<img src="./imgs/07_CloudNative/9781800200739.png" width="50px">| 2021 | 9781800200739 | Book | Software Architecture Patterns for Serverless Systems: Architecting for innovation with events    | [4.28](https://www.goodreads.com/book/show/58824174) | 0025   | John Gilbert, Ed Price (Foreword) |
+|<img src="./imgs/07_CloudNative/9781789539141.png" width="50px">| 2021 | 9781789539141 | Book | AWS for Solutions Architects: Design your cloud infrastructure by implementing DevOps, containers    | [3.53](https://www.goodreads.com/book/show/57644059-) | 0019   | Alberto Artasanchez |
+|<img src="./imgs/07_CloudNative/9781492050285.png" width="50px">| 2019 | 9781492050285 | Book | Kubernetes Patterns             | [4.27](https://www.goodreads.com/book/show/44144501) | 00101   | Bilgin Ibryam, Roland Huß |
+|<img src="./imgs/07_CloudNative/9781491929124.png" width="50px">| 2016 | 9781491929124 | Book | Site Reliability Engineering    | [4.23](https://www.goodreads.com/book/show/27968891) | 01980   | Beyer, Jones, Petoff, Murphy |
+|<img src="./imgs/07_CloudNative/9781491924358.png" width="50px">| 2016 | 9781491924358 | Book | Infrastructure as Code          | [4.20](https://www.goodreads.com/book/show/26544394) | 00316   | Kief Morris |
+|<img src="./imgs/07_CloudNative/9780978739218.png" width="50px">| 2007 | 9780978739218 | Book | Release It!: Design and Deploy  | [4.26](https://www.goodreads.com/book/show/1069827)  | 02746   | Michael Nygard |
 
 ---
 
@@ -144,32 +159,32 @@ This index follows a **Concept-First** approach. Inclusion is based on:
 
 |Image | Publ.| ISBN          | Type | Title                                               | Rating                                               | Raters | Authors |
 | :--- | :--- | :------------ | :--- | :-------------------------------------------------- | :--------------------------------------------------- | :---   | :--- |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781492082798.png" width="50px">| 2020 | 9781492082798 | Book | Software Engineering at Google                      | [4.19](https://www.goodreads.com/book/show/48816586) | 344    | Titus Winters, Tom Manshreck, Hyrum Wright |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781735266534.png" width="50px">| 2020 | 9781735266534 | Book | 14 Habits of Highly Productive Developers           | [4.05](https://www.goodreads.com/book/show/54438214) | 195    | Zeno Rocha |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781492056706.png" width="50px">| 2020 | 9781492056706 | Book | Container Security: Fundamental Technology Concepts | [4.48](https://www.goodreads.com/book/show/48816583) | 52     | Liz Rice |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781942788768.png" width="50px">| 2019 | 9781942788768 | Book | The Unicorn Project                                 | [4.13](https://www.goodreads.com/book/show/44333183) | 4927   | Gene Kim |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780596522698.png" width="50px">| 2019 | 9780596522698 | Book | 97 Things Every Software Architect Should Know      | [3.62](https://www.goodreads.com/book/show/5487765)  | 686    | Richard Monson-Haefel |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781732102200.png" width="50px">| 2018 | 9781732102200 | Book | A Philosophy of Software Design                     | [4.14](https://www.goodreads.com/book/show/39996759) | 1516   | John Ousterhout |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781492029502.png" width="50px">| 2018 | 9781492029502 | Book | The Site Reliability Workbook                       | [4.34](https://www.goodreads.com/book/show/39687146) | 231    | Betsy Beyer, Niall Richard Murphy, et al. |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781680502725.png" width="50px">| 2018 | 9781680502725 | Book | Software Design X-Rays: Fix Technical Debt          | [4.20](https://www.goodreads.com/book/show/36517037) | 112    | Adam Tornhill |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781661212568.png" width="50px">| 2018 | 9781661212568 | Book | Composing Software                                  | [3.88](https://www.goodreads.com/book/show/43429039) | 85     | Eric Elliott |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781491992395.png" width="50px">| 2017 | 9781491992395 | Book | Chaos Engineering                                   | [4.23](https://www.goodreads.com/book/show/35516296) | 112    | Casey Rosenthal, Nora Jones |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780596529307.png" width="50px">| 2017 | 9780596529307 | Book | High Performance Web Sites                          | [4.15](https://www.goodreads.com/book/show/1681559)  | 690    | Steve Souders |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781491929124.png" width="50px">| 2016 | 9781491929124 | Book | Site Reliability Engineering: Google SRE            | [4.23](https://www.goodreads.com/book/show/27968891) | 1980   | Beyer, Jones, Petoff, Murphy |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780735618794.png" width="50px">| 2016 | 9780735618794 | Book | Software Requirements: Practical Techniques         | [4.10](https://www.goodreads.com/book/show/349416)   | 713    | Karl Wiegers, Joy Beatty |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781537082981.png" width="50px">| 2016 | 9781537082981 | Book | 37 Things One Architect Knows                       | [4.35](https://www.goodreads.com/book/show/29499887) | 100    | Gregor Hohpe |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780134052502.png" width="50px">| 2014 | 9780134052502 | Book | The Software Craftsman: Professionalism             | [4.33](https://www.goodreads.com/book/show/23215733) | 769    | Sandro Mancuso |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781449344764.png" width="50px">| 2013 | 9781449344764 | Book | High Performance Browser Networking                 | [4.50](https://www.goodreads.com/book/show/17985198) | 671    | Ilya Grigorik |
-|<img src="./imgs/09_GeneralBooksAndArticles/9781449313890.png" width="50px">| 2012 | 9781449313890 | Book | Code Simplicity: Fundamentals of Software           | [3.74](https://www.goodreads.com/book/show/13234063) | 501    | Max Kanat-Alexander |
-|<img src="./imgs/09_GeneralBooksAndArticles/9782954745503.png" width="50px">| 2012 | 9782954745503 | Book | The Leprechauns of Software Engineering             | [3.84](https://www.goodreads.com/book/show/15874425) | 147    | Laurent Bossavit |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780321820808.png" width="50px">| 2012 | 9780321820808 | Book | Presentation Patterns                               | [3.94](https://www.goodreads.com/book/show/13705465) | 123    | Neal Ford, Matthew McCullough, et al. |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780201362985.png" width="50px">| 2010 | 9780201362985 | Book | The Design of Design: Essays                        | [3.76](https://www.goodreads.com/book/show/7157080)  | 571    | Frederick P. Brooks Jr. |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780978739218.png" width="50px">| 2007 | 9780978739218 | Book | Release It!: Design and Deploy                      | [4.26](https://www.goodreads.com/book/show/1069827)  | 2746   | Michael T. Nygard |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780735605350.png" width="50px">| 2006 | 9780735605350 | Book | Software Estimation: Demystifying the Black Art     | [4.04](https://www.goodreads.com/book/show/93891)    | 911    | Steve McConnell |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780321356703.png" width="50px">| 2006 | 9780321356703 | Book | Software Security: Building Security in             | [3.63](https://www.goodreads.com/book/show/760789)   | 82     | Gary McGraw |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780974514048.png" width="50px">| 2005 | 9780974514048 | Book | Ship It!: A Practical Guide                         | [3.72](https://www.goodreads.com/book/show/363086)   | 509    | Jared Richardson, Will Gwaltney |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780932633606.png" width="50px">| 2003 | 9780932633606 | Book | Waltzing with Bears: Managing Risk                  | [3.97](https://www.goodreads.com/book/show/665153)   | 702    | Tom DeMarco, Timothy Lister |
-|<img src="./imgs/09_GeneralBooksAndArticles/9780201775945.png" width="50px">| 2003 | 9780201775945 | Book | Beyond Software Architecture                        | [3.72](https://www.goodreads.com/book/show/224132)   | 141    | Luke Hohmann |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781492082798.png" width="50px">| 2020 | 9781492082798 | Book | Software Engineering at Google                      | [4.19](https://www.goodreads.com/book/show/48816586) | 00344    | Titus Winters, Tom Manshreck, Hyrum Wright |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781735266534.png" width="50px">| 2020 | 9781735266534 | Book | 14 Habits of Highly Productive Developers           | [4.05](https://www.goodreads.com/book/show/54438214) | 00195    | Zeno Rocha |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781492056706.png" width="50px">| 2020 | 9781492056706 | Book | Container Security: Fundamental Technology Concepts | [4.48](https://www.goodreads.com/book/show/48816583) | 00052     | Liz Rice |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781942788768.png" width="50px">| 2019 | 9781942788768 | Book | The Unicorn Project                                 | [4.13](https://www.goodreads.com/book/show/44333183) | 04927   | Gene Kim |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780596522698.png" width="50px">| 2019 | 9780596522698 | Book | 97 Things Every Software Architect Should Know      | [3.62](https://www.goodreads.com/book/show/5487765)  | 00686    | Richard Monson-Haefel |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781732102200.png" width="50px">| 2018 | 9781732102200 | Book | A Philosophy of Software Design                     | [4.14](https://www.goodreads.com/book/show/39996759) | 01516   | John Ousterhout |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781492029502.png" width="50px">| 2018 | 9781492029502 | Book | The Site Reliability Workbook                       | [4.34](https://www.goodreads.com/book/show/39687146) | 00231    | Betsy Beyer, Niall Richard Murphy, et al. |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781680502725.png" width="50px">| 2018 | 9781680502725 | Book | Software Design X-Rays: Fix Technical Debt          | [4.20](https://www.goodreads.com/book/show/36517037) | 00112    | Adam Tornhill |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781661212568.png" width="50px">| 2018 | 9781661212568 | Book | Composing Software                                  | [3.88](https://www.goodreads.com/book/show/43429039) | 00085     | Eric Elliott |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781491992395.png" width="50px">| 2017 | 9781491992395 | Book | Chaos Engineering                                   | [4.23](https://www.goodreads.com/book/show/35516296) | 00112    | Casey Rosenthal, Nora Jones |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780596529307.png" width="50px">| 2017 | 9780596529307 | Book | High Performance Web Sites                          | [4.15](https://www.goodreads.com/book/show/1681559)  | 00690    | Steve Souders |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781491929124.png" width="50px">| 2016 | 9781491929124 | Book | Site Reliability Engineering: Google SRE            | [4.23](https://www.goodreads.com/book/show/27968891) | 01980   | Beyer, Jones, Petoff, Murphy |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780735618794.png" width="50px">| 2016 | 9780735618794 | Book | Software Requirements: Practical Techniques         | [4.10](https://www.goodreads.com/book/show/349416)   | 00713    | Karl Wiegers, Joy Beatty |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781537082981.png" width="50px">| 2016 | 9781537082981 | Book | 37 Things One Architect Knows                       | [4.35](https://www.goodreads.com/book/show/29499887) | 00100    | Gregor Hohpe |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780134052502.png" width="50px">| 2014 | 9780134052502 | Book | The Software Craftsman: Professionalism             | [4.33](https://www.goodreads.com/book/show/23215733) | 00769    | Sandro Mancuso |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781449344764.png" width="50px">| 2013 | 9781449344764 | Book | High Performance Browser Networking                 | [4.50](https://www.goodreads.com/book/show/17985198) | 00671    | Ilya Grigorik |
+|<img src="./imgs/09_GeneralBooksAndArticles/9781449313890.png" width="50px">| 2012 | 9781449313890 | Book | Code Simplicity: Fundamentals of Software           | [3.74](https://www.goodreads.com/book/show/13234063) | 00501    | Max Kanat-Alexander |
+|<img src="./imgs/09_GeneralBooksAndArticles/9782954745503.png" width="50px">| 2012 | 9782954745503 | Book | The Leprechauns of Software Engineering             | [3.84](https://www.goodreads.com/book/show/15874425) | 00147    | Laurent Bossavit |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780321820808.png" width="50px">| 2012 | 9780321820808 | Book | Presentation Patterns                               | [3.94](https://www.goodreads.com/book/show/13705465) | 00123    | Neal Ford, Matthew McCullough, et al. |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780201362985.png" width="50px">| 2010 | 9780201362985 | Book | The Design of Design: Essays                        | [3.76](https://www.goodreads.com/book/show/7157080)  | 00571    | Frederick P. Brooks Jr. |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780978739218.png" width="50px">| 2007 | 9780978739218 | Book | Release It!: Design and Deploy                      | [4.26](https://www.goodreads.com/book/show/1069827)  | 02746   | Michael T. Nygard |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780735605350.png" width="50px">| 2006 | 9780735605350 | Book | Software Estimation: Demystifying the Black Art     | [4.04](https://www.goodreads.com/book/show/93891)    | 00911    | Steve McConnell |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780321356703.png" width="50px">| 2006 | 9780321356703 | Book | Software Security: Building Security in             | [3.63](https://www.goodreads.com/book/show/760789)   | 00082     | Gary McGraw |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780974514048.png" width="50px">| 2005 | 9780974514048 | Book | Ship It!: A Practical Guide                         | [3.72](https://www.goodreads.com/book/show/363086)   | 00509    | Jared Richardson, Will Gwaltney |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780932633606.png" width="50px">| 2003 | 9780932633606 | Book | Waltzing with Bears: Managing Risk                  | [3.97](https://www.goodreads.com/book/show/665153)   | 00702    | Tom DeMarco, Timothy Lister |
+|<img src="./imgs/09_GeneralBooksAndArticles/9780201775945.png" width="50px">| 2003 | 9780201775945 | Book | Beyond Software Architecture                        | [3.72](https://www.goodreads.com/book/show/224132)   | 00141    | Luke Hohmann |
 |<img src="./imgs/09_GeneralBooksAndArticles/9780201616224.png" width="50px">| 1999 | 9780201616224 | Book | The Pragmatic Programmer                            | [4.32](https://www.goodreads.com/book/show/4099)     | 17379  | Andrew Hunt, David Thomas |
 |<img src="./imgs/09_GeneralBooksAndArticles/9780201835953.png" width="50px">| 1995 | 9780201835953 | Book | The Mythical Man-Month                              | [4.03](https://www.goodreads.com/book/show/13629)    | 15165  | Frederick P. Brooks Jr. |
 
